@@ -1,0 +1,6 @@
+development:
+  adapter: postgresql
+  database: bro_meter_development
+test:
+  adapter: postgresql
+  database: bro_meter_test
